@@ -1,0 +1,1 @@
+"""Six primary Qt workspaces."""

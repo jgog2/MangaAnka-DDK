@@ -1,0 +1,2 @@
+# Primary Qt source frontend; the legacy Tk launcher does not require Qt.
+PySide6==6.10.2

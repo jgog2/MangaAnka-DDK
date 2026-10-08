@@ -1,0 +1,15 @@
+MangaAnkā Database Development Kit v0.2.0
+Focused validation
+
+PASS - Python syntax compilation
+PASS - language-independent aggregate parser fixture
+PASS - duplicate same-volume aggregate evidence normalization
+PASS - invalid non-numeric volume bucket exclusion
+PASS - strict AniList + MangaDex exact-title agreement clears false ambiguity
+PASS - aggregate structure remains preferred over English feed fallback
+PASS - English feed title evidence remains available
+PASS - stale automatic chapter cleanup on reharvest
+PASS - existing SQLite schema compatibility
+
+No live network test was run in the build environment.
+Recommended manual test: re-run the existing 25-title dataset in the Windows EXE.

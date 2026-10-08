@@ -1,0 +1,47 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Build outputs
+build/
+dist/
+*.exe
+*.spec
+
+# Databases and SQLite files
+*.db
+*.sqlite
+*.sqlite3
+*.db-*
+*.sqlite-*
+*.sqlite3-*
+
+# Data exports and local evidence
+export*.json
+*backup*
+*.bak
+*.log
+*.zip
+
+# Environment and credentials
+.env
+.env.*
+*.pem
+*.key
+*token*
+*secret*
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Additional virtual environments
+.venv*/
+venv*/
+env*/

@@ -1,0 +1,19 @@
+MangaAnkā Database Development Kit v0.3.0 validation
+
+Source basis:
+- Current user-supplied MangaAnkā worktree snapshot: MangaNana(20261002-044559).zip
+- Vendored search core: exact copies of the current pure-Python search/provider modules required by the standalone audit harness.
+
+Validation performed:
+- Main application Python compile: PASS
+- All vendored search-core Python modules compile: PASS
+- Standalone import of all five acquisition adapters: PASS
+- Offline current-core canonical grouping/ranking smoke with fake providers: PASS
+- Offline current-core provider inventory resolution smoke: PASS
+- Existing-workspace SQLite schema compatibility/new audit table smoke: PASS
+- Latest-audit + hole query smoke: PASS
+- Xvfb GUI startup smoke: PASS
+- Four-tab interface smoke: PASS
+- Vertical + horizontal scrollbar presence on every major long result table: PASS
+
+No live bulk provider crawl was run in the build environment.

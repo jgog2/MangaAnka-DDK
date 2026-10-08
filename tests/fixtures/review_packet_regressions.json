@@ -1,0 +1,34 @@
+{
+  "source": "Six-title DDK Review Packet generated 2026-10-02; reduced to deterministic evidence, not expected live counts",
+  "duplicate_trusted_mapping": {
+    "chapter": "125",
+    "trusted_wikipedia_volume": "31",
+    "provider": "mangak",
+    "rows": [
+      {"id": "https://mangak.io/shingeki-no-kyojin/chapter-125", "chapter": "125"},
+      {"id": "https://mangak.io/shingeki-no-kyojin/vol-31-chapter-125", "chapter": "125"}
+    ]
+  },
+  "structural_conflict": {"chapter": "125", "wikipedia_volumes": ["31", "32"]},
+  "range_bundle": {
+    "provider": "mangak",
+    "records": [
+      {"id": "https://mangak.io/chainsaw-man/chapter-8-16", "chapter": "8-16"},
+      {"id": "https://mangak.io/chainsaw-man/chapter-80-88", "chapter": "80-88"}
+    ]
+  },
+  "split_candidate": {
+    "provider": "mangak",
+    "records": [
+      {"id": "https://mangak.io/chainsaw-man/chapter-141-1", "chapter": "141.1"},
+      {"id": "https://mangak.io/chainsaw-man/chapter-141-2", "chapter": "141.2"},
+      {"id": "https://mangak.io/chainsaw-man/chapter-142-1", "chapter": "142.1"},
+      {"id": "https://mangak.io/chainsaw-man/chapter-142-2", "chapter": "142.2"}
+    ]
+  },
+  "publication_complete_provider_artifacts": {"raw": 390, "canonical": 232, "mapped": 232, "volumes": 24, "artifact_records": 158},
+  "publication_complete_unclassified": {"canonical": 272, "mapped": 272, "volumes": 30, "provider_fractional": ["61.5", "129.5", "132.5", "168.5", "262.2"]},
+  "publication_complete_acquisition_partial": {"canonical": 205, "mapped": 205, "volumes": 23, "missing_reference_records": 40},
+  "wrong_edition": {"requested": "standard", "selected": "fan_color"},
+  "world_control": {"canonical": 163, "volumes": 14, "mapped": 163, "holes": 0}
+}

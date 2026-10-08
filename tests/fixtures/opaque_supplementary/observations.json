@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Dr. STONE",
+    "identity": {
+      "canonical_work_id": "anilist:98416|kitsu:38860",
+      "edition": "standard",
+      "language": "en",
+      "publication_context": "",
+      "external_ids": {
+        "anilist_id": "98416",
+        "mal_id": "103897",
+        "kitsu_id": "38860",
+        "anilist": "98416|kitsu:38860"
+      },
+      "trusted": true
+    },
+    "books": [
+      {
+        "title": "Dr.STONE 27",
+        "publication_role": "standard_volume",
+        "volume": "27",
+        "isbn": "978-4-08-884037-6",
+        "canonical_work_id": "anilist:98416|kitsu:38860",
+        "edition": "standard",
+        "language": "ja",
+        "publication_id": "jdcn:08X10000000040243800",
+        "source_page": "https://www.s-manga.net/items/contents.html?jdcn=08X10000000040243800",
+        "captured_at": "2026-10-08T01:12:14.897346+00:00",
+        "payload_sha256": "9ce4e0b6af6aae769015cc8ebc21c77c95f7ba8b9e408e01b67b5082a4aec0a4",
+        "evidence_type": "official_volume_toc",
+        "records": [
+          {
+            "title": "TERRAFORMING",
+            "book_page": 7,
+            "publication_role": "special"
+          },
+          {
+            "title": "【4D SCIENCE】 1D：FUTURE MESSAGE",
+            "book_page": 59,
+            "publication_role": "special"
+          },
+          {
+            "title": "【4D SCIENCE】 2D：FUTURE ROAD MAP",
+            "book_page": 107,
+            "publication_role": "special"
+          },
+          {
+            "title": "【4D SCIENCE】 3D：FUTURE SCIENCE",
+            "book_page": 155,
+            "publication_role": "special"
+          }
+        ]
+      }
+    ],
+    "expected_recognized": 4,
+    "acquisition_binding": "unresolved"
+  },
+  {
+    "title": "My Hero Academia",
+    "identity": {
+      "canonical_work_id": "anilist:85486|kitsu:26004",
+      "edition": "standard",
+      "language": "en",
+      "publication_context": "",
+      "external_ids": {
+        "anilist": "85486|kitsu:26004"
+      },
+      "trusted": true
+    },
+    "books": [
+      {
+        "title": "僕のヒーローアカデミア ファイナルファンブック Ultra Age",
+        "publication_role": "supplementary_book",
+        "volume": "",
+        "isbn": "978-4-08-884309-4",
+        "canonical_work_id": "anilist:85486|kitsu:26004",
+        "edition": "standard",
+        "language": "ja",
+        "publication_id": "jdcn:08X10000000062024400",
+        "source_page": "https://www.shueisha.co.jp/books/items/contents.html?jdcn=08X10000000062024400",
+        "captured_at": "2026-10-08T01:12:13.644828+00:00",
+        "payload_sha256": "10d85d7528765f429a63a720f172a9a3820ba96139dc81770709b30a25938e47",
+        "evidence_type": "official_toc",
+        "records": [
+          {
+            "source": "shueisha",
+            "source_page": "https://www.shueisha.co.jp/books/items/contents.html?jdcn=08X10000000062024400",
+            "source_record_id": "isbn:978-4-08-884309-4:toc:319",
+            "title": "描き下ろし特別読切",
+            "book_page": "319",
+            "kind": "special",
+            "publication_role": "pilot_or_oneshot",
+            "canonical_identifier": null,
+            "acquisition_binding": "unresolved"
+          }
+        ]
+      }
+    ],
+    "expected_recognized": 1,
+    "acquisition_binding": "unresolved"
+  },
+  {
+    "title": "Black Clover",
+    "identity": {
+      "canonical_work_id": "anilist:86123|kitsu:27527",
+      "edition": "standard",
+      "language": "en",
+      "publication_context": "",
+      "external_ids": {
+        "anilist_id": "86123",
+        "mal_id": "86337",
+        "kitsu_id": "27527",
+        "anilist": "86123|kitsu:27527"
+      },
+      "trusted": true
+    },
+    "books": [
+      {
+        "isbn": "978-4-08-885227-0",
+        "title": "ブラッククローバー 公式ガイドブック 完全魔導書",
+        "publisher_book_id": 10130038,
+        "publisher_series_id": 156893,
+        "release_date": "2026-08-04",
+        "creators": [
+          "田畠 裕基"
+        ],
+        "publication_role": "supplementary_book",
+        "acquisition_binding": "unresolved",
+        "source_page": "https://www.shueisha.co.jp/books/items/contents.html?jdcn=08X10000000073529800",
+        "records": [
+          {
+            "source": "shueisha",
+            "source_page": "https://www.shueisha.co.jp/books/items/contents.html?jdcn=08X10000000073529800",
+            "source_record_id": "isbn:978-4-08-885227-0:toc:303",
+            "title": "●描きおろし漫画 ブラッククローバー 田畠裕基 第29代目魔法帝戴冠式",
+            "book_page": "303",
+            "kind": "special",
+            "publication_role": "special",
+            "canonical_identifier": null,
+            "acquisition_binding": "unresolved"
+          }
+        ],
+        "status": "observed_unbound",
+        "payload_sha256": "44ba94cb9b77d5e722a3fdde576d657be9fdb318ebb5bbf67a55225953a24a85",
+        "canonical_work_id": "anilist:86123|kitsu:27527",
+        "edition": "standard",
+        "language": "ja",
+        "captured_at": "2026-10-07T22:54:10.660877+00:00",
+        "evidence_type": "official_toc",
+        "publication_id": "jdcn:08X10000000073529800"
+      },
+      {
+        "isbn": "978-4-08-881551-0",
+        "title": "ブラッククローバー／16.5 公式ガイドブック 魔導書の栞",
+        "publisher_book_id": 10049832,
+        "publisher_series_id": 37113,
+        "release_date": "2018-05-02",
+        "creators": [
+          "田畠 裕基"
+        ],
+        "publication_role": "supplementary_book",
+        "acquisition_binding": "unresolved",
+        "source_page": "https://www.shueisha.co.jp/books/items/contents.html?jdcn=08881551880416315501",
+        "records": [
+          {
+            "source": "shueisha",
+            "source_page": "https://www.shueisha.co.jp/books/items/contents.html?jdcn=08881551880416315501",
+            "source_record_id": "isbn:978-4-08-881551-0:toc:156",
+            "title": "・『ブラクロ』の原点!! 読切版『ブラック・クローバー』",
+            "book_page": "156",
+            "kind": "special",
+            "publication_role": "pilot_or_oneshot",
+            "canonical_identifier": null,
+            "acquisition_binding": "unresolved"
+          }
+        ],
+        "status": "observed_unbound",
+        "payload_sha256": "2a4fa71779915f5ab4d11f9d140743b2f0ef10f2cb7573ba161e46adbfe00839",
+        "canonical_work_id": "anilist:86123|kitsu:27527",
+        "edition": "standard",
+        "language": "ja",
+        "captured_at": "2026-10-07T22:54:10.660877+00:00",
+        "evidence_type": "official_toc",
+        "publication_id": "jdcn:08881551880416315501"
+      }
+    ],
+    "expected_recognized": 2,
+    "acquisition_binding": "unresolved"
+  }
+]

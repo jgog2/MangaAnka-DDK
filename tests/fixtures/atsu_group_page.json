@@ -1,0 +1,31 @@
+{
+  "mangaPage": {
+    "id": "m7bps",
+    "title": "Dandadan",
+    "scanlators": [
+      {
+        "id": "cmgzknkaz1s19m191ixjoug4z",
+        "name": "Alpha",
+        "score": 0,
+        "myVote": null,
+        "firstChapter": {
+          "id": "h3oaON0e",
+          "title": "Chapter 1",
+          "number": 1
+        }
+      },
+      {
+        "id": "cmp1osjet00008gmpqqr17eds",
+        "name": "Delta",
+        "score": 0,
+        "myVote": null,
+        "firstChapter": {
+          "id": "40HC28",
+          "title": "Chapter 1",
+          "number": 1
+        }
+      }
+    ],
+    "sourcePreference": null
+  }
+}

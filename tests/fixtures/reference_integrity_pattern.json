@@ -1,0 +1,11 @@
+{
+  "description": "Synthetic count-shaped reproduction of the reported Chainsaw Man reference pattern, not a copy of live Audit 23. Other memberships and the missing extra are synthetic controls.",
+  "main_count": 232,
+  "volume_count": 24,
+  "disagreements": {
+    "203": {"mangadex": "20", "wikipedia": "22"},
+    "232": {"mangadex": "1", "wikipedia": "24"}
+  },
+  "provider_artifacts": ["203.1", "203.2"],
+  "missing_special": "5.5"
+}

@@ -1,0 +1,24 @@
+{
+  "same_title_distinct_work": {
+    "provider": {"source_id":"mangapill","id":"serial","title":"Example Series","author":"Same Creator","media_type":"manga"},
+    "external": [
+      {"service":"anilist","external_id":"serial-id","primary_title":"Example Series","authors":["Same Creator"],"format":"MANGA","reported_chapter_count":144},
+      {"service":"anilist","external_id":"oneshot-id","primary_title":"Example Series","authors":["Same Creator"],"format":"ONE_SHOT","reported_chapter_count":1}
+    ]
+  },
+  "related_part_alias": {
+    "provider": {"source_id":"mangak","id":"part-eight","title":"JoJolion","author":"Same Creator","media_type":"manga"},
+    "external": [
+      {"service":"anilist","external_id":"part-eight-id","primary_title":"JoJolion","authors":["Same Creator"]},
+      {"service":"anilist","external_id":"part-nine-id","primary_title":"The JoJoLands","aliases":["JoJolion"],"authors":["Same Creator"]}
+    ]
+  },
+  "explicit_colored_acquisition": {
+    "requested":"standard",
+    "selected_title":"Example (Fan Colored) (Colored)"
+  },
+  "sparse_reference": {"logical_chapters":113,"mapped_chapters":1,"final_volumes":1,"reported_volumes":16},
+  "partial_prefix": {"logical_chapters":253,"mapped_chapters":32,"final_volumes":6,"reported_volumes":29},
+  "complete_control": {"logical_chapters":142,"mapped_chapters":142,"final_volumes":34},
+  "titled_fractional_extra": {"chapter":"37.5","title":"Mission 37.5"}
+}

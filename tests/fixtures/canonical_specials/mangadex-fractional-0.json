@@ -1,0 +1,201 @@
+{
+  "result": "ok",
+  "response": "collection",
+  "data": [
+    {
+      "id": "ad45c2bc-04f5-4bd8-95e4-b3fad20e68e0",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "5.5",
+        "volume": "1",
+        "title": "Omake & Extras",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "1ce9735a-5bfc-441f-b45b-af979900687b",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "14.5",
+        "volume": "2",
+        "title": "Omake & Extras",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "657962be-bfce-4f59-a866-3a55908d8ea1",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "23.5",
+        "volume": "3",
+        "title": "Omake & Extras",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "6a65f364-707e-4e6f-8885-8874743e24a7",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "32.5",
+        "volume": "4",
+        "title": "Omake & Extras",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "341c01e6-16b5-40ab-a6c6-a5a7727f8a6f",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "40.5",
+        "volume": "5",
+        "title": "One-Shot, Omake & Extras",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "e0e15f54-8928-49a5-aaf1-afe44d0a0f6d",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "49.5",
+        "volume": "6",
+        "title": "Omake & Extras",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "05e458fa-97f3-46ec-a9eb-8afcba98e630",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "58.5",
+        "volume": "7",
+        "title": "Omake & Extras",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "351d8e01-9f0b-408c-9483-7242c1f77fc1",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "67.5",
+        "volume": "8",
+        "title": "Omakes & Extras",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "796c95bd-97fd-409d-85f4-d282ada834d3",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "76.5",
+        "volume": "9",
+        "title": "Omake & Extras",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "aac50662-8de1-4ac7-ad7b-4ee1c3190dbf",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "85.5",
+        "volume": "10",
+        "title": "Omake & Extras",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "49f06382-dce5-43f0-a213-96858c6bc05f",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "201.5",
+        "volume": "23",
+        "title": "Extra",
+        "translatedLanguage": "pt-br"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    },
+    {
+      "id": "d9b0ee50-4600-477e-b828-8dec28496ec4",
+      "type": "chapter",
+      "attributes": {
+        "chapter": "231.1",
+        "volume": null,
+        "title": null,
+        "translatedLanguage": "ar"
+      },
+      "relationships": [
+        {
+          "id": "68112dc1-2b80-4f20-beb8-2f2a8716a430",
+          "type": "manga"
+        }
+      ]
+    }
+  ],
+  "limit": 100,
+  "offset": 0,
+  "total": 12
+}
